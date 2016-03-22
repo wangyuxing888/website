@@ -1,0 +1,596 @@
+# Translation of Decode in Chinese (China)
+# This file is distributed under the same license as the Decode package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-23 14:37:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Decode\n"
+
+#: sidebar.php:26
+msgid "Navigation"
+msgstr "导航菜单"
+
+#: sidebar.php:11
+msgid "Hide sidebar"
+msgstr "隐藏侧边栏"
+
+#: page-explore.php:44
+msgid "Categories"
+msgstr "分类目录"
+
+#: page-explore.php:26
+msgid "Recent Posts"
+msgstr "近期文章"
+
+#. #-#-#-#-#  decode.pot (Decode 3.0.9)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: page-explore.php:11
+msgid "Explore Page"
+msgstr "浏览页"
+
+#: inc/template-tags.php:249 page-explore.php:37 sidebar.php:41
+msgid "Archives"
+msgstr "归档"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:247
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: inc/template-tags.php:243
+msgid "Archives: %s"
+msgstr "存档：%s"
+
+#: inc/template-tags.php:238
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: inc/template-tags.php:240
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "聊天"
+
+#: inc/template-tags.php:236
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "状态"
+
+#: inc/template-tags.php:234
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: inc/template-tags.php:232
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引语"
+
+#: inc/template-tags.php:230
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: inc/template-tags.php:226
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "相册"
+
+#: inc/template-tags.php:228
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图像"
+
+#: inc/template-tags.php:224
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "日志"
+
+#: inc/template-tags.php:221
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:221
+msgid "Day: %s"
+msgstr "日期：%s"
+
+#: inc/template-tags.php:219
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:219
+msgid "Month: %s"
+msgstr "月份：%s"
+
+#: inc/template-tags.php:217
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:213
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: inc/template-tags.php:217
+msgid "Year: %s"
+msgstr "年份：%s"
+
+#: inc/template-tags.php:211
+msgid "Category: %s"
+msgstr "分类：%s"
+
+#: inc/template-tags.php:186
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:163
+msgid "Newer posts"
+msgstr "较新文章"
+
+#: inc/template-tags.php:159
+msgid "Older posts"
+msgstr "较旧的文章"
+
+#: inc/template-tags.php:133
+msgctxt "post author"
+msgid "by %s"
+msgstr "由 %s"
+
+#: inc/template-tags.php:155
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:128
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "在 %s 上张贴"
+
+#: inc/template-tags.php:42
+msgid "Website"
+msgstr "站点"
+
+#: inc/extras.php:95
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: inc/customizer.php:1418
+msgid "The main text color."
+msgstr "主要文本颜色。"
+
+#: inc/customizer.php:1425
+msgid "Secondary Text Color"
+msgstr "二级文字颜色"
+
+#: inc/customizer.php:1426
+msgid "Text color used for text of secondary importance.<br>(Try using a lighter color than the main Text Color.)"
+msgstr "用于二级文本的颜色，比如引用文字。<br>(建议使用比文本颜色深一些的颜色。)"
+
+#: inc/customizer.php:1433
+msgid "Use accent color instead of text color for icons"
+msgstr "使用最近颜色取代标签文本颜色"
+
+#: inc/customizer.php:1417
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: inc/customizer.php:1362
+msgid "Show the following post types on home blog page. (Separate with commas)"
+msgstr "在首页显示以下类型的文章(用逗号分隔)"
+
+#: inc/customizer.php:1401
+msgid "Accent Color"
+msgstr "特殊颜色"
+
+#: inc/customizer.php:1402
+msgid "The main color used for links, borders, buttons, and more."
+msgstr "用于链接、边框、按钮等位置的颜色。"
+
+#: inc/customizer.php:1409
+msgid "Active Link Color"
+msgstr "已访问链接颜色"
+
+#: inc/customizer.php:1410
+msgid "The color for currently clicked links.<br>(Try using a darker color than the Accent Color.)"
+msgstr "用于当前已点击过的链接<br>(建议使用比特殊颜色深一些的颜色。)"
+
+#: inc/customizer.php:1351
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: inc/customizer.php:1127
+msgid "Content Options"
+msgstr "内容设置"
+
+#: inc/customizer.php:1129
+msgctxt "(blog name)'s content."
+msgid "These options change the display of %s's content"
+msgstr "这些选择会改变 %s 的内容显示方式。"
+
+#: inc/customizer.php:1211
+msgid "Load Latin Extended character set. This will increase page load times."
+msgstr "加载拉丁语扩展字符集，该设置会增加页面加载时间。"
+
+#: inc/customizer.php:1218
+msgid "Use entry excerpts instead of full text on site home. Excludes sticky posts."
+msgstr "首页显示摘要而不是全文，除了置顶文章"
+
+#: inc/customizer.php:1225
+msgid "Use entry excerpts on archive, category, and author pages."
+msgstr "在归档、分类和个人页上显示摘要"
+
+#: inc/customizer.php:1232
+msgid "Display posts' featured images when excerpts are shown."
+msgstr "显示摘要时也展示文章特色图片"
+
+#: inc/customizer.php:1239
+msgid "Display a post's featured image on its individual page."
+msgstr "在个人页展示文章的特色图片"
+
+#: inc/customizer.php:1246
+msgid "Show tags on front page (tags will be shown on post's individual page)"
+msgstr "在个人页显示标签"
+
+#: inc/customizer.php:1253
+msgid "Show categories on front page (categories will be shown on post's individual page)"
+msgstr "在个人页显示分类"
+
+#: inc/customizer.php:1260
+msgid "Show author's name, profile image, and bio after posts"
+msgstr "在文章后显示作者名字，个人资料图片"
+
+#: inc/customizer.php:1267
+msgid "Entry Date Position"
+msgstr "发表时间位置"
+
+#: inc/customizer.php:1271
+msgid "Above Header"
+msgstr "在页头上"
+
+#: inc/customizer.php:1272
+msgid "Below Header"
+msgstr "在页头下"
+
+#: inc/customizer.php:1278
+msgid "Show entry date for post excepts on the main page"
+msgstr "除了首页，显示文章的发表日期"
+
+#: inc/customizer.php:1285
+msgid "Show allowed HTML tags on comment form"
+msgstr "显示允许评论中允许的html标签"
+
+#: inc/customizer.php:1292
+msgid "Show Page Headers"
+msgstr "显示页头"
+
+#: inc/customizer.php:1299
+msgid "Add an arrow before the title of a link post"
+msgstr "在文章标题链接前加一个箭头"
+
+#: inc/customizer.php:1306
+msgid "Show Theme Info (display a line of text about the theme and its creator at the bottom of pages)"
+msgstr "显示主题信息(在页面底部显示主题和他的作者)"
+
+#: inc/customizer.php:1315
+msgid "Text (colophon, copyright, credits, etc.) for the footer of the site"
+msgstr "页脚文本(可以是版权、捐献等)"
+
+#: inc/customizer.php:1329
+msgid "Other Options"
+msgstr "其他选项"
+
+#: inc/customizer.php:1095
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: inc/customizer.php:1113
+msgid "RSS Feed"
+msgstr "RSS 订阅"
+
+#: inc/customizer.php:295
+msgid "Sidebar Button Position"
+msgstr "边栏按钮位置"
+
+#: inc/customizer.php:307
+msgid "Always Visible Sidebar"
+msgstr "边栏始终可见"
+
+#: inc/customizer.php:312
+msgctxt "Sidebar option"
+msgid "Always open"
+msgstr "总是打开 [边栏选项]"
+
+#: inc/customizer.php:313
+msgctxt "Sidebar option"
+msgid "Closed by default"
+msgstr "默认关闭 [边栏选项]"
+
+#: inc/customizer.php:325
+msgid "Social Options"
+msgstr "社交设置"
+
+#: inc/customizer.php:631 inc/customizer.php:638
+msgid "Show Social Icons"
+msgstr "显示社交图标"
+
+#: inc/customizer.php:631
+msgid "in Header"
+msgstr "在页首"
+
+#: inc/customizer.php:638
+msgid "in Footer"
+msgstr "在页脚"
+
+#: inc/customizer.php:645
+msgid "Open Links in New Tab/Window"
+msgstr "在新标签中打开链接"
+
+#: inc/customizer.php:653 inc/customizer.php:661 inc/customizer.php:669
+#: inc/customizer.php:678 inc/customizer.php:686 inc/customizer.php:694
+#: inc/customizer.php:703 inc/customizer.php:711 inc/customizer.php:719
+#: inc/customizer.php:727 inc/customizer.php:735 inc/customizer.php:752
+#: inc/customizer.php:760 inc/customizer.php:768 inc/customizer.php:776
+#: inc/customizer.php:784 inc/customizer.php:792 inc/customizer.php:800
+#: inc/customizer.php:808 inc/customizer.php:816 inc/customizer.php:824
+#: inc/customizer.php:841 inc/customizer.php:858 inc/customizer.php:866
+#: inc/customizer.php:874 inc/customizer.php:882 inc/customizer.php:890
+#: inc/customizer.php:915 inc/customizer.php:923 inc/customizer.php:940
+#: inc/customizer.php:974 inc/customizer.php:982 inc/customizer.php:990
+#: inc/customizer.php:998 inc/customizer.php:1014 inc/customizer.php:1031
+#: inc/customizer.php:1039 inc/customizer.php:1047 inc/customizer.php:1055
+#: inc/customizer.php:1063 inc/customizer.php:1087
+msgid "%s Username"
+msgstr "%s 用户名"
+
+#: inc/customizer.php:670 inc/customizer.php:695
+msgid " (or the long number in your profile URL)"
+msgstr "或你个人资料页的长号码"
+
+#: inc/customizer.php:743 inc/customizer.php:1022 inc/customizer.php:1071
+#: inc/customizer.php:1079
+msgid "%s Profile URL"
+msgstr "%s 资料 URL"
+
+#: inc/customizer.php:832 inc/customizer.php:906 inc/customizer.php:931
+#: inc/customizer.php:948 inc/customizer.php:957
+msgid "%s Site URL"
+msgstr "%s 站点 URL"
+
+#: inc/customizer.php:849 inc/customizer.php:898 inc/customizer.php:1104
+msgid "%s Link"
+msgstr "%s 链接"
+
+#: inc/customizer.php:966 inc/customizer.php:1006
+msgid "%s User ID"
+msgstr "%s 用户ID"
+
+#: inc/customizer.php:289 inc/customizer.php:301
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer.php:283
+msgid "Sidebar Position"
+msgstr "边栏位置"
+
+#: inc/customizer.php:288 inc/customizer.php:300
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer.php:206
+msgid "Favicon Image (must be a PNG)"
+msgstr "网站图标(必须是PNG)"
+
+#: inc/customizer.php:213
+msgid "Show Site Title"
+msgstr "显示站点标题"
+
+#: inc/customizer.php:220
+msgid "Show Site Description"
+msgstr "显示站点描述"
+
+#: inc/customizer.php:227
+msgid "Show Header Menu"
+msgstr "首先头部菜单"
+
+#: inc/customizer.php:234
+msgid "HTML for description, if you wish to replace your blog description with HTML markup"
+msgstr "介绍的HTML，如果你想用HTML替换你的博客介绍"
+
+#: inc/customizer.php:248
+msgid "Sidebar Options"
+msgstr "边栏设置"
+
+#: inc/customizer.php:276
+msgid "Enable Sidebar"
+msgstr "使用边栏"
+
+#: inc/customizer.php:171
+msgid "Header Options"
+msgstr "标题选项"
+
+#: image.php:35
+msgid "Next"
+msgstr "下一"
+
+#: image.php:34
+msgid "Previous"
+msgstr "上一个"
+
+#: header.php:37
+msgid "Show sidebar"
+msgstr "显示侧边栏"
+
+#: image.php:22
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a>"
+msgstr "发布 <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> 在 <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a>"
+
+#: header.php:33
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: functions.php:171
+msgctxt "sidebar description"
+msgid "Only displayed if sidebar remains enabled in the Customize menu."
+msgstr "仅当侧边栏在自定义菜单中开启时显示"
+
+#: functions.php:27
+msgid "Sidebar Menu"
+msgstr "侧边栏页脚导航"
+
+#: functions.php:28
+msgid "Footer Menu"
+msgstr "底部菜单"
+
+#: functions.php:169
+msgid "Sidebar"
+msgstr "边栏"
+
+#: functions.php:26
+msgid "Header Menu"
+msgstr "顶部菜单"
+
+#: footer.php:44
+msgid "%1$s by %2$s"
+msgstr "%1$s &nbsp;主题由&nbsp;%2$s&nbsp;设计"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "没有找到任何内容"
+
+#: content-link.php:42 content-quote.php:29 content-single.php:25
+#: content-single.php:65 content-single.php:114 content.php:45
+msgid "Tagged as: "
+msgstr "标签："
+
+#: content-link.php:45 content-quote.php:32 content-single.php:26
+#: content-single.php:66 content-single.php:115 content.php:48
+msgid "Categorized in&#58; "
+msgstr "分类："
+
+#: content-link.php:35 content-quote.php:22 content.php:37
+msgid "% Comments"
+msgstr "%条评论"
+
+#: content-link.php:35 content-quote.php:22 content.php:37
+msgid "1 Comment"
+msgstr "一条评论"
+
+#: content-link.php:35 content-quote.php:22 content.php:37
+msgid "Leave a comment"
+msgstr "发表回复"
+
+#: content-link.php:31 content-page.php:28 content-quote.php:18
+#: content-single.php:17 content-single.php:102 content.php:32 image.php:91
+msgid "Pages:"
+msgstr "页面："
+
+#: content-link.php:29 content-quote.php:15 content-single.php:14
+#: content-single.php:56 content-single.php:98 content.php:29
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-excerpt.php:35 content-link.php:38 content-page.php:32
+#: content-quote.php:25 content-search.php:20 content-single.php:22
+#: content-single.php:62 content-single.php:111 content.php:41 image.php:30
+msgid "Edit"
+msgstr "编辑"
+
+#: content-excerpt.php:33
+msgid "Read More&hellip;"
+msgstr "阅读更多&hellip;"
+
+#: comments.php:104
+msgid "Your email address will not be published."
+msgstr "电子邮件地址不会被公开。"
+
+#: comments.php:105
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "您可以使用这些<abbr title=\"HyperText Markup Language\">HTML</abbr>标签和属性：%s"
+
+#: comments.php:103
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "以 <a href=\"%1$s\">%2$s</a> 的身份登录。<a href=\"%3$s\" title=\"登出此帐户\">登出？</a>"
+
+#: comments.php:102
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "要发表评论，您必须先<a href=\"%s\">登录</a>。"
+
+#: comments.php:101
+msgctxt "noun"
+msgid "Comment"
+msgstr "评论"
+
+#: comments.php:82
+msgid "Post Comment"
+msgstr "发表评论"
+
+#: comments.php:81
+msgid "Cancel reply"
+msgstr "取消回复"
+
+#: comments.php:80
+msgid "Leave a Reply to %s"
+msgstr "向%s进行回复"
+
+#: comments.php:79
+msgid "Leave a Reply"
+msgstr "发表回复"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:38 comments.php:62
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:37 comments.php:61
+msgid "Older Comments"
+msgstr "较早评论"
+
+#: comments.php:34 comments.php:58
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%1$s个想法"
+
+#: author.php:26 inc/template-tags.php:215
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr "常用分类目录"
+
+#: 404.php:26
+msgid "Try looking in the monthly archives."
+msgstr "试试访问每月归档。"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr " 看起来这个位置没有内容，试试下面的链接或搜索一下或许有帮助。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"
